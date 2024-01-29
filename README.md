@@ -9,11 +9,11 @@ This app is built for employers looking for candidates against a particular job 
 3. Get their [cosine similarity](https://developers.google.com/machine-learning/clustering/similarity/measuring-similarity)
 
 ## Workflow:
-<img src = "#">
+<img src = "Demo\Workflow.png">
 
 ## Interface
-<img src = "#>
-<img src = "#" height = 400 width = 800>
+<img src = "Demo\Interface.png">
+<img src = "Demo\Interface_Results.png" height = 400 width = 800>
 
 ## Usage
 
